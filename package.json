@@ -1,0 +1,22 @@
+{
+  "name": "mern_setup",
+  "version": "1.0.0",
+  "description": "set up MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatyDeng17/mern_setup.git"
+  },
+  "author": "Katy Deng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatyDeng17/mern_setup/issues"
+  },
+  "homepage": "https://github.com/KatyDeng17/mern_setup#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
